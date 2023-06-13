@@ -1,0 +1,17 @@
+C:\Users\Alp\source\repos\updater\updater\bin\Debug\net6.0\updater.exe
+C:\Users\Alp\source\repos\updater\updater\bin\Debug\net6.0\updater.deps.json
+C:\Users\Alp\source\repos\updater\updater\bin\Debug\net6.0\updater.runtimeconfig.json
+C:\Users\Alp\source\repos\updater\updater\bin\Debug\net6.0\updater.dll
+C:\Users\Alp\source\repos\updater\updater\bin\Debug\net6.0\updater.pdb
+C:\Users\Alp\source\repos\updater\updater\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Alp\source\repos\updater\updater\obj\Debug\net6.0\updater.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\updater\updater\obj\Debug\net6.0\updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alp\source\repos\updater\updater\obj\Debug\net6.0\updater.AssemblyInfoInputs.cache
+C:\Users\Alp\source\repos\updater\updater\obj\Debug\net6.0\updater.AssemblyInfo.cs
+C:\Users\Alp\source\repos\updater\updater\obj\Debug\net6.0\updater.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\updater\updater\obj\Debug\net6.0\updater.csproj.CopyComplete
+C:\Users\Alp\source\repos\updater\updater\obj\Debug\net6.0\updater.dll
+C:\Users\Alp\source\repos\updater\updater\obj\Debug\net6.0\refint\updater.dll
+C:\Users\Alp\source\repos\updater\updater\obj\Debug\net6.0\updater.pdb
+C:\Users\Alp\source\repos\updater\updater\obj\Debug\net6.0\updater.genruntimeconfig.cache
+C:\Users\Alp\source\repos\updater\updater\obj\Debug\net6.0\ref\updater.dll

@@ -1,0 +1,2 @@
+C:\Users\Alp\source\repos\updater\updater\bin\Release\net6.0\publish\win-x64\updater.pdb
+C:\Users\Alp\source\repos\updater\updater\bin\Release\net6.0\publish\win-x64\updater.exe

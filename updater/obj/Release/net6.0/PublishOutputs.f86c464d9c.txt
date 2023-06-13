@@ -1,0 +1,6 @@
+C:\Users\Alp\source\repos\updater\updater\bin\Release\net6.0\publish\updater.exe
+C:\Users\Alp\source\repos\updater\updater\bin\Release\net6.0\publish\updater.dll
+C:\Users\Alp\source\repos\updater\updater\bin\Release\net6.0\publish\updater.deps.json
+C:\Users\Alp\source\repos\updater\updater\bin\Release\net6.0\publish\updater.runtimeconfig.json
+C:\Users\Alp\source\repos\updater\updater\bin\Release\net6.0\publish\updater.pdb
+C:\Users\Alp\source\repos\updater\updater\bin\Release\net6.0\publish\Newtonsoft.Json.dll

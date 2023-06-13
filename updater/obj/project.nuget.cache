@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pktDwicnB97lpsd+ShM2Hi+dX7Dj3RJVpnSdQ8Pp/jQ26v9jBrgNRTVHjDktwQ8IH9wEoACL9gFT+lG9Cdo09A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alp\\source\\repos\\updater\\updater\\updater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

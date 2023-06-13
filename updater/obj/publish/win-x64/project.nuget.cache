@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZRcXHJw+ylPOB8mGftoNdpCNDBKKICFYEirFRDCUY5MO2BqljvtuUHiQpSOiRZ+v1+Qv6mpbnX903eCDNPKMTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alp\\source\\repos\\updater\\updater\\updater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Alp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.16\\microsoft.netcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\Alp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\Alp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
